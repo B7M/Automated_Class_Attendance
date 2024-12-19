@@ -1,0 +1,12 @@
+cv2
+dlib
+facenet_pytorch
+json
+matplotlib
+numpy
+os
+shutil
+sklearn
+ssl
+torch
+urllib
